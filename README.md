@@ -7,23 +7,23 @@ pytorch
 Three Amazon datasets (Beauty, Cellphones, Baby) are available in "jmcauley.ucsd.edu/data/amazon/links.html".
 
 ## Run the codes
-1. Preprocess the data
+1. Preprocess the data:
 
-python data_process.py
+- python data_process.py
 
-2. Construct the knowledge graph
+2. Construct the knowledge graph:
 
 python preprocess.py
 
-3. Generate data for TransE method
+3. Generate data for TransE method:
 
 python transe_data.py 
 
-4. Train knowledge graph representations by TransE method
+4. Train knowledge graph representations by TransE method:
 
 python train_transe_model.py
 
-5. Train our REKS model
+5. Train our REKS model:
 
 python train_agent.py 
 
