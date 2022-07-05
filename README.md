@@ -8,7 +8,7 @@ Three Amazon datasets (Beauty, Cellphones, Baby) are available in "jmcauley.ucsd
 
 ## Run the codes
 1. Preprocess the data:
-'<python data_process.py>'
+<python data_process.py>
 
 2. Construct the knowledge graph:
 
