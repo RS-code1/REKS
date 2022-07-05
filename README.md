@@ -1,10 +1,10 @@
 # A Generic Reinforced Explainable Framework with Knowledge Graph for Session-based Recommendation
 
 ## Requirements
-- pytorch
+pytorch
 
 ## Datasets
-- Three Amazon datasets (Beauty, Cellphones, Baby) are available in "jmcauley.ucsd.edu/data/amazon/links.html".
+Three Amazon datasets (Beauty, Cellphones, Baby) are available in "jmcauley.ucsd.edu/data/amazon/links.html".
 
 ## Run the codes
 1. Preprocess the data:
